@@ -3,12 +3,12 @@
 1. Conditional Statements (if-elif-else)
 2. For Loop  
 3. Previous Year Question Paper
-    i. June 2022
+    *. June 2022
        ->Distance.py
        ->EvenOrOdd.py
        ->NumberTriangle.py
        ->PrimesUPTON.py
-    ii. May  2023
+    *. May  2023
        ->AmstrongOrNot.py
        ->QuadraticRoot.py
        ->NumberTriangle.py
