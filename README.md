@@ -3,5 +3,5 @@
 1. Conditional Statements (if-elif-else)
 2. For Loop  
 3. Previous Year Question Paper
-    * June 2002
+    * June 2022
     * May  2023
