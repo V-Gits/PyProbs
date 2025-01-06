@@ -1,7 +1,10 @@
 # Python Problems
-## Contains some sample question from each topic of Python
+## Contains some sample question from each topic of Programming In Python 
+### KTU CST 362 [6th Sem Elective]
 1. Conditional Statements (if-elif-else)
-2. For Loop  
-3. Previous Year Question Paper
+2. For Loop
+3. Match Case
+4. Previous Year Question Paper
     * June 2022
     * May  2023
+    * June 2023
