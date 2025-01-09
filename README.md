@@ -6,7 +6,8 @@
 3. Match Case
 4. While Loop
 5. Patterns
-6. Previous Year Question Paper
+6. Mathematical Series
+7. Previous Year Question Paper
     * June 2022
     * May  2023
     * June 2023
