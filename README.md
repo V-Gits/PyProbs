@@ -12,12 +12,12 @@
 1. String
 
 #### III. Previous Year Question Paper
-    * June 2022
-    * May  2023
-    * June 2023
-    * January 2024
-    * May 2024
-    * Theory Questions
+   1. June 2022
+   2. May  2023
+   3. June 2023
+   4. January 2024
+   5. May 2024
+   6. Theory Questions
       - [Module 1](https://docs.google.com/document/d/1fmXlkbFD1rYWqYa-O7rj7cJwnm0K60qz/edit?usp=sharing&ouid=105544552132277961766&rtpof=true&sd=true)
  9. User Defined Functions
  10. Extra Questions
