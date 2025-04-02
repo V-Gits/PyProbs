@@ -9,8 +9,9 @@
 5. Patterns
 6. Mathematical Series
 #### II. Module 2
+1. String
 
-8. Previous Year Question Paper
+#### III. Previous Year Question Paper
     * June 2022
     * May  2023
     * June 2023
